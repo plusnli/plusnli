@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there👋I am Jiaxi Li.
+
+🫡🫡
+
+<!-- My research interests lie in Machine Reasoning with Foundation Models. -->
 
 <!--
 **plusnli/plusnli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
