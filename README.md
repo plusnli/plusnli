@@ -1,6 +1,6 @@
 ## Hi there👋I am Jiaxi Li.
 
-🫡🫡
+Hi there👋I am Jiaxi Li, a PhD student at the University of Georgia working on self-evovling agents🫡🫡.
 
 <!-- My research interests lie in Machine Reasoning with Foundation Models. -->
 
