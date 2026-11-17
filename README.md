@@ -1,6 +1,7 @@
 ## Hi there👋I am Jiaxi Li.
 
-Hi there👋I am Jiaxi Li, a PhD student at the University of Georgia working on self-evovling agents🫡🫡.
+Hi there👋I am Jiaxi Li, a PhD student at the University of Georgia working on self-evovling agents. I explore approaches such as skill evolution and failure attribution. Welcome any feedback and discussion!🫡🫡
+
 
 <!-- My research interests lie in Machine Reasoning with Foundation Models. -->
 
